@@ -1,6 +1,6 @@
 module.exports = {
   host: {
     //server url hosting mongoDB 
-    url: 'mongodb://DB_SERVER_IPADDRESS:PORT'
+    url: 'mongodb://10.21.28.102:27017'
   }
 };
